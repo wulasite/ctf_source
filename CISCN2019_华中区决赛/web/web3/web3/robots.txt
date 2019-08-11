@@ -1,0 +1,2 @@
+User-Agent: *
+Disallow: /my-secret-diary-no-one-will-know-it

